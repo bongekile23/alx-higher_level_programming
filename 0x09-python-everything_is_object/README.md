@@ -21,4 +21,8 @@ OK. But what about this?
 
 
 
+<<<<<<< HEAD
 This project is a little bit different than the usual projects
+=======
+This project is a little bit different than the usual projects. 
+>>>>>>> 0da89dc157a0c573514d2cdd8342ae65fc675abe

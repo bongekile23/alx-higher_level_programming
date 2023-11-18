@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 id
+=======
+type
+>>>>>>> 0da89dc157a0c573514d2cdd8342ae65fc675abe
