@@ -4,6 +4,7 @@
 # Usage: ./12-model_state_update_id_2.py <mysql username> /
 #                                        <mysql password> /
 #                                        <database name>
+
 import sys
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
